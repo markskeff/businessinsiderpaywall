@@ -11,11 +11,11 @@ On the Business Insider site, users often encounter a paywall when attempting to
 ## Instructions:
 
 - Familiarize yourself with Business Insider (www.businessinsider.com).
-- Access this premium post: <url>
+- Access this premium post: https://www.businessinsider.com/amazon-guidance-why-senior-staff-wont-get-base-pay-raises-2024-3
 - Imagine yourself as a test engineer responsible for testing the subscription workflow.
 - Consider the various elements and functionalities involved in the subscription process.  
 - Think about potential test scenarios related to user interactions, error handling, data validation, and subscription processing.
-- Prepare to discuss your approach to testing this subscription workflow in detail during the interview.
+- Prepare to discuss your approach to testing this subscription workflow during the interview.
 
 ## Guidelines:
 
