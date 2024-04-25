@@ -2,7 +2,7 @@
 
 ## Scenario To Consider 
 
-As part of the interview process, we would like you to consider the following scenario involving the Business Insider homepage (www.businessinsider.com).
+As part of the interview process, we would like you to consider the following scenario on our Business Insider site (www.businessinsider.com).
 
 ## Scenario:
 
